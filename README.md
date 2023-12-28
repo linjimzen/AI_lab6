@@ -1,1 +1,1 @@
-# AI_lab6
+# AI_lab6: Quantization
